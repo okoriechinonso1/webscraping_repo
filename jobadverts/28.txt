@@ -1,0 +1,9 @@
+Job title: Site Reliability Developer 3 
+Company name: Oracle 
+Job specification: Web Site Developer Job in Tallahassee, FL 
+Brief information: A unique opportunity to join a rapidly growing world-class team to engineer cutting edge Oracle Cloud technologies and infrastructure that make up the Oracle Cloud solutions. As part of the SRE team, you will be continually challenged and have an opportunity to contribute to the Oracle Cloud Block Storage success every day. Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience and market conditions, as well as reflect Oracle's differing products, industries and lines of business. As a Site Reliability Engineer you will solve interesting technical challenges by defining, designing, deploying and troubleshooting for the Blockt Storage system as part of the Oracle Cloud Infrastructure group. 
+Payment amount: $92.2k-161.5k yearly 
+job level: Junior Level 
+Job category: Full Time 
+qualification: Bachelors Required 
+Date of job posting: 3d ago
